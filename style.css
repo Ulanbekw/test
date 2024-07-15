@@ -1,0 +1,90 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+article {
+  border: 3px solid royalblue;
+  width: 970px;
+  height: 710px;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+}
+.ter {
+  display: flex;
+  gap: 10px;
+
+}
+
+.red {
+  width: 300px;
+  height: 690px;
+  background-color: red;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+}
+.rana {
+  display: flex;
+  gap: 10px;
+}
+.green {
+  width: 310px;
+  height: 225px;
+  background-color: green;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+}
+.brown {
+  background-color: blueviolet;
+  width: 310px;
+  height: 225px;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+}
+.bas {
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+}
+.ran {
+  display: block;
+  gap: 10px;
+}
+.yellow {
+  background-color: yellow;
+  width: 310px;
+  height: 225px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.aqua {
+  width: 310px;
+  height: 225px;
+  background-color: aqua;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+}
+.raun {
+  display: flex;
+  gap: 10px;
+}
+.croen {
+  width: 630px;
+  height: 219px;
+  background-color: darkgoldenrod;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
